@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "tuneteller", // Chemin vers le répertoire de votre application React
+      "use": "@vercel/static-build"
+    }
+  ]
+}
